@@ -5,12 +5,12 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <radialGradient cx="116.70788%" cy="110.133192%" fx="116.70788%" fy="110.133192%" r="147.799618%" gradientTransform="translate(1.167079,1.101332),scale(0.357923,1.000000),rotate(-160.534454),translate(-1.167079,-1.101332)" id="radialGradient-1">
-            <stop stop-color="#EE6DAC" offset="0%"></stop>
-            <stop stop-color="#E74293" offset="2.91250472%"></stop>
-            <stop stop-color="#E74293" offset="4.5053357%"></stop>
-            <stop stop-color="#FF74B8" offset="6.00516035%"></stop>
-            <stop stop-color="#FD007C" offset="25.4821693%"></stop>
-            <stop stop-color="#FD007C" offset="100%"></stop>
+            <stop stop-color="#FFDF9E" offset="0%"></stop>
+            <stop stop-color="#FFDF9E" offset="2.91250472%"></stop>
+            <stop stop-color="#FFDF9E" offset="4.5053357%"></stop>
+            <stop stop-color="#FFDF9E" offset="6.00516035%"></stop>
+            <stop stop-color="#FFDF9E" offset="25.4821693%"></stop>
+            <stop stop-color="#FFDF9E" offset="100%"></stop>
         </radialGradient>
     </defs>
     <g id="Ressource" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
